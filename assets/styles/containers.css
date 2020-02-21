@@ -9,6 +9,10 @@
 	justify-content: space-between;
 }
 
+.content.-projects {
+	flex-wrap: wrap;
+}
+
 @media screen and (max-width: 1023px) {
 	.container {
 		width: 730px;
